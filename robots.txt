@@ -1,0 +1,4 @@
+Sitemap: https://finansist-nn.ru/sitemap.xml
+
+User-agent: *
+Disallow:
